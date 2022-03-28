@@ -1,0 +1,37 @@
+# Project: HA
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = hauptmenu.o fahrzeugverwaltung.o kundenverwaltung.o leihauftraege.o
+LINKOBJ  = hauptmenu.o fahrzeugverwaltung.o kundenverwaltung.o leihauftraege.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = HA.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+hauptmenu.o: hauptmenu.c
+	$(CC) -c hauptmenu.c -o hauptmenu.o $(CFLAGS)
+
+fahrzeugverwaltung.o: fahrzeugverwaltung.c
+	$(CC) -c fahrzeugverwaltung.c -o fahrzeugverwaltung.o $(CFLAGS)
+
+kundenverwaltung.o: kundenverwaltung.c
+	$(CC) -c kundenverwaltung.c -o kundenverwaltung.o $(CFLAGS)
+
+leihauftraege.o: leihauftraege.c
+	$(CC) -c leihauftraege.c -o leihauftraege.o $(CFLAGS)

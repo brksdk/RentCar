@@ -1,0 +1,34 @@
+Vorname;Nachname;Alter;Geschlecht ;Telefon 1;Email;Durum;id;Stadt;Landkreis;Strasse;Hausnummer;Turnummer;Tag;Monat;Jahr;ID
+Kai;Aslan;35;weiblich;(585) 987-3698;kai.aslan@tau.com;1;0;Istanbul;Uskudar;sogutlucayir;1;5;5;12;1995;12345678910
+Nilgun;Aslan;45;weiblich;(552) 356-9741;nilgun@tau.com;1;1;Istanbul;Etiler;karlidere;2;2;10;1;1965;45126516125
+Linus;Aslan;25;maenlich;(565) 965-1265;linus@tau.com;1;2;Istanbul;Umraniye;bulgurlu;3;3;11;2;1966;16594351152
+Cenk;Canacankatan;65;maenlich;(507) 076-5596;cenk@tau.com;1;3;Istanbul;Sisli;libadiye;4;6;12;3;1967;13654789651
+Ismail;Cengiz;32;maenlich;(544) 965-1305;ismail@tau.com;1;4;Istanbul;Bagcilar;yerlioglu;5;9;13;4;1968;53697459562
+Ozlem;Dal;65;weiblich;(546) 498-7546;ozlem@tau.com;1;5;Istanbul;Buyukcekmece;cami;6;12;14;5;1969;36594765515
+Aylin;Dal;42;maenlich;(598) 654-7836;aylwin@tau.com;1;6;Istanbul;Taksim;çetin;7;6;15;6;1970;36957456952
+Riza;Soylu;55;maenlich;(598) 123-9865;rýzasoylu@tau.com;1;7;Istanbul;Kucukcekmece;suzer;8;9;23;7;1971;36549745945
+Fatma;Dede;23;weiblich;(532) 654-9815;fatma@tau.com;1;8;Istanbul;Beylikduzu;piri reis;9;7;24;8;1972;31026549851
+Yasin;Dede;24;maenlich;(556) 632-9845;yasin@tau.com;1;9;Istanbul;Silivri;selvili;10;5;25;9;1973;36974985485
+Damla;Demir;25;weiblich;(532) 654-9815;damla@tau.com;1;10;Istanbul;Atasehir;sahinler;11;4;26;10;1974;36954895215
+Canan;Erdem;26;weiblich;(555) 123-4598;canan@tau.com;1;11;Istanbul;Sultanbeyli;dervisoglu;12;12;27;11;1975;51356548951
+Gulsen;Fischer;27;weiblich;(507) 076-8729;gulsen@tau.com;1;12;Istanbul;Uskudar;korkmaz;13;3;28;12;1976;35554551651
+Pascal;Fischer;28;maenlich;(537) 667-4859;pascal@tau.com;1;13;Istanbul;Etiler;cihan;14;6;29;1;1977;15618456494
+Sinasican;Fox;29;maenlich;(546) 585-6580;sinasican@tau.com;1;14;Istanbul;Umraniye;sair nedim;15;9;30;2;1978;16554654654
+Nathalie;Gill;30;weiblich;(564) 987-3565;nathalie@tau.com;1;15;Istanbul;Sisli;gunaydin;16;8;31;3;1979;32698515562
+Reyhan;Gill;31;maenlich;(525) 985-4598;reyhan@tau.com;1;16;Istanbul;Bagcilar;ferah;17;7;8;4;1980;11324587456
+Aydan;Giray;32;maenlich;(715) 602-2885;aydan@tau.com;1;17;Istanbul;Buyukcekmece;yildirim;18;6;9;5;1981;46578465132
+Abdullatif;Giray;33;maenlich;(694) 650-7095;abdullatif@tau.com;1;18;Istanbul;Taksim;teknik;19;5;10;6;1982;12346589745
+Renard;Hofmann;34;maenlich;(884) 012-9108;renard@tau.com;1;19;Istanbul;Kucukcekmece;tibet;20;1;11;7;1983;13469875614
+Volkan;Hofmann;35;maenlich;(590) 256-6112;volkan@tau.com;1;20;Istanbul;Beylikduzu;petek;21;9;12;8;1984;56565655161
+Osman;Aga;45;maenlich;(683) 260-9937;usmanaga@com.tr;1;21;Istanbul;Silivri;yalcin;22;8;13;9;1985;99641118948
+Cigdem;Mueller;37;weiblich;(826) 369-2986;cigdem@tau.com;1;22;Istanbul;Atasehir;camiici;23;4;14;10;1986;18964894198
+Till;Mueller;38;maenlich;(545) 933-0119;till.@tau.com;1;23;Istanbul;Sultanbeyli;hakan;24;3;15;5;1987;16565489894
+Bartram;Mueller;39;maenlich;(595) 658-1245;bartram@tau.com;1;24;Istanbul;Uskudar;ahmet bey;25;2;16;6;1988;89745684956
+Nina;Park;40;weiblich;(169) 915-2849;nina.park@tau.com;1;25;Istanbul;Etiler;rihtim;26;12;17;7;1989;15469487465
+Enver;Park;41;maenlich;(326) 834-5831;enver.park@tau.com;1;26;Istanbul;Umraniye;akin;27;3;1;8;1990;96585456123
+Ermine;Peters;42;weiblich;(714) 615-9599;ermine@tau.com;1;27;Istanbul;Sisli;sedircam;28;13;2;9;1991;65958441552
+Arif;Pikirgen;43;maenlich;(174) 465-9394;arif@tau.com;1;28;Istanbul;Bagcilar;mevsim;29;15;3;3;1992;32684656955
+Albertyne;Potter;44;weiblich;(298) 654-4178;albertyne@tau.com;1;29;Istanbul;Buyukcekmece;citlembik;30;6;4;4;1993;31565665452
+Karola;West;45;weiblich;(565) 704-2281;karola@tau.com;1;30;Istanbul;Kucukcekmece;cevher;31;3;5;5;1994;98555165446
+Kora;West;46;weiblich;(500) 659-3628;kora@tau.com;1;31;Istanbul;Taksim;sutculer;32;2;6;6;1995;13354566548
+Antonie;West;47;maenlich;(575) 755-4775;antonie@tau.com;1;32;Istanbul;Taksim;boran;33;5;7;7;1996;54656554488
